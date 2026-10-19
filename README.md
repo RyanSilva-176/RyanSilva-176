@@ -1,119 +1,111 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" height=300px />
-</div>  
-  
-
-### <div align="center">I'm Ryan Silva, a frontend developer from Brazil!</div>  
-  
-
-- 🎓 I'm a Systems Analysis and Development student.  
-  
-
-- 🚀 My goal is to become a Full Stack Developer.  
-  
-
-- 💻 Currently I'm studying Java and Spring.  
-  
-
-- 📫 Feel free to contact me at ryansilva1760@gmail.com.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  <h1>Ryan Silva</h1>
+  <p><strong>Engenharia de Software &bull; Full-Stack &bull; Sistemas Embarcados</strong></p>
+  <p>Estudante de Análise e Desenvolvimento de Sistemas no IFPE</p>
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## Sobre mim
 
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) focado na construção de aplicações web escaláveis e arquitetura de software limpa. Minha experiência abrange o desenvolvimento de APIs RESTful estruturadas, controle de estado e interfaces reativas no front-end, além de integração de soluções do hardware à infraestrutura.
 
-### Backend  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-</div>
+Além do ecossistema web moderno, dedico tempo a pesquisas em Sistemas Embarcados e Internet das Coisas (IoT), com ênfase em redes de longa distância e baixo consumo (LPWAN / LoRaWAN).
 
-</td><td valign="top" width="33%">
+**Como penso sobre código:** Um bom código deve ser previsível, legível e desacoplado. Prefiro investir tempo estruturando uma boa camada de domínio, adotando tipagem estática confiável e padronizando ambientes com containers para garantir manutenibilidade e escalabilidade.
 
+---
 
+## Foco no momento
 
-### Database  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-</div>
+- **Aplicações Full-Stack Reativas:** Integração de ecossistemas orientados a eventos, WebSockets em tempo real e interfaces componentizadas com controle de estado centralizado.
+- **Arquitetura Multi-Tenant e Segurança:** Modelagem de bancos de dados com isolamento por inquilino, controle de acesso baseado em papéis (RBAC) e autenticação stateless.
+- **Ambientes e DevOps:** Padronização e orquestração de microsserviços e ambientes locais com Docker e Docker Compose.
+- **Sistemas Embarcados & IoT:** Prototipagem e instrumentação de telemetria com microcontroladores ESP32 e protocolo LoRaWAN para sensoriamento ambiental.
 
-</td></tr></table>  
+---
 
-<br/>
-<br/>
+## Projetos em destaque
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/RyanSilva-176" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ryan-silva-021707214" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/rysm176" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
-<br/>
+<p>
+  <a href="https://github.com/RyanSilva-176/multitenant-auth">
+    <img src="https://img.shields.io/badge/multitenant--auth-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="Repositório multitenant-auth" />
+  </a>
+</p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RyanSilva-176&theme=radical&hide_border=false&include_all_commits=false&count_private=false" align="center" /></div>
+Sistema de autenticação e controle de acesso com isolamento multi-inquilino. Implementa políticas estritas de separação de dados por tenant, autenticação segura e gerenciamento granular de permissões.  
+ &bull;  &bull;  &bull;  &bull;  &bull; 
 
-<br/>
-<br/>
+<p>
+  <a href="https://github.com/RyanSilva-176/film-stack">
+    <img src="https://img.shields.io/badge/film--stack-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="Repositório film-stack" />
+  </a>
+</p>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanSilva-176&theme=radical&hide_border=false" align="center" /></div>  
+Plataforma full-stack construída sob uma arquitetura desacoplada e containerizada. Foco em renderização híbrida ágil via Inertia.js, comunicação reativa e tipagem estática de ponta a ponta.  
+ &bull;  &bull;  &bull;  &bull; 
 
-<br/>
-<br/>
+<p>
+  <a href="https://github.com/RyanSilva-176">
+    <img src="https://img.shields.io/badge/Monitoramento_LoRaWAN-pesquisa-black?style=for-the-badge&logo=github&logoColor=white" alt="Pesquisa LoRaWAN" />
+  </a>
+</p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanSilva-176&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" /></div>  
+Artigo e projeto de pesquisa desenvolvido no IFPE com foco no monitoramento de telemetria ambiental. Utiliza microcontroladores de baixo consumo e transmissão de longa distância via gateway LoRaWAN.  
+ &bull;  &bull;  &bull; 
 
-<br/>  
-<br/>
-
-### Spotify Listening  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31zxdlmvgwlotb2hzdhxo5ucyjji&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>
-<br/>  
+<br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=RyanSilva-176&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
-<br/>
-<div align="center"></div>
-<br />
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyanSilva-176&theme=dark" alt="Top Languages by Commit" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RyanSilva-176&theme=dark" alt="Stats" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanSilva-176&theme=dark" alt="Profile details" />
+      </td> 
+    </tr>
+  </table>
+</div>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+
+## Stack e tecnologias
+
+Minha stack principal para o backend concentra-se no ecossistema **PHP / Laravel** (APIs RESTful, Horizon, Reverb, Sanctum, Inertia) e **Node.js / TypeScript**. No frontend, atuo prioritariamente com **Vue 3** e **React / Next.js**, utilizando **TypeScript** e **Tailwind CSS**. Persistência de dados com **PostgreSQL**, **MySQL** e **Redis**. Ambientes padronizados com **Docker** em sistema **Linux**.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## Aprendizado e contato
+
+Sigo estudando **ADS** e construindo soluções nos repositórios acima. Aberto a conexões com desenvolvedores, pesquisadores e recrutadores.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ryan-silva-021707214"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ryansilva1760@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/RyanSilva-176"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
