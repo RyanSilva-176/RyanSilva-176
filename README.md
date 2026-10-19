@@ -34,7 +34,7 @@ Além do ecossistema web moderno, dedico tempo a pesquisas em Sistemas Embarcado
 </p>
 
 Sistema de autenticação e controle de acesso com isolamento multi-inquilino. Implementa políticas estritas de separação de dados por tenant, autenticação segura e gerenciamento granular de permissões.  
- &bull;  &bull;  &bull;  &bull;  &bull; 
+`PHP` &bull; `Laravel` &bull; `Vue.js` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Docker`
 
 <p>
   <a href="https://github.com/RyanSilva-176/film-stack">
@@ -43,7 +43,7 @@ Sistema de autenticação e controle de acesso com isolamento multi-inquilino. I
 </p>
 
 Plataforma full-stack construída sob uma arquitetura desacoplada e containerizada. Foco em renderização híbrida ágil via Inertia.js, comunicação reativa e tipagem estática de ponta a ponta.  
- &bull;  &bull;  &bull;  &bull; 
+`Laravel` &bull; `Inertia.js` &bull; `Vue 3` &bull; `TypeScript` &bull; `Docker`
 
 <p>
   <a href="https://github.com/RyanSilva-176">
@@ -52,7 +52,7 @@ Plataforma full-stack construída sob uma arquitetura desacoplada e containeriza
 </p>
 
 Artigo e projeto de pesquisa desenvolvido no IFPE com foco no monitoramento de telemetria ambiental. Utiliza microcontroladores de baixo consumo e transmissão de longa distância via gateway LoRaWAN.  
- &bull;  &bull;  &bull; 
+`C++` &bull; `ESP32` &bull; `LoRaWAN` &bull; `Sistemas Embarcados`
 
 <br>
 
