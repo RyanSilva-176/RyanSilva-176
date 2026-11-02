@@ -1,58 +1,60 @@
 <div align="center">
-  <h1>Ryan Silva</h1>
-  <p><strong>Engenharia de Software &bull; Full-Stack &bull; Sistemas Embarcados</strong></p>
-  <p>Estudante de Análise e Desenvolvimento de Sistemas no IFPE</p>
+  <h1>Ryan Menezes</h1>
+  <p><strong>Full Stack Developer &bull; Back-end Focus &bull; Domains, SSL &amp; Cloud</strong></p>
+  <p>Full Stack Developer at LWSA (KingHost &amp; Locaweb) &bull; Systems Analysis and Development at IFPE, expected 2027</p>
 </div>
 
 ---
 
-## Sobre mim
+## About me
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) focado na construção de aplicações web escaláveis e arquitetura de software limpa. Minha experiência abrange o desenvolvimento de APIs RESTful estruturadas, controle de estado e interfaces reativas no front-end, além de integração de soluções do hardware à infraestrutura.
+Full stack developer focused on back-end, working with **Ruby on Rails**, **PHP/Laravel** and **Vue.js**. At LWSA, the group behind KingHost and Locaweb, I build domain registration and SSL certificate products. Before that, I worked on cloud and VPS products.
 
-Além do ecossistema web moderno, dedico tempo a pesquisas em Sistemas Embarcados e Internet das Coisas (IoT), com ênfase em redes de longa distância e baixo consumo (LPWAN / LoRaWAN).
+I also do research on embedded systems and the Internet of Things (IoT), with an emphasis on low-power, long-range networks (LPWAN / LoRaWAN).
 
-**Como penso sobre código:** Um bom código deve ser previsível, legível e desacoplado. Prefiro investir tempo estruturando uma boa camada de domínio, adotando tipagem estática confiável e padronizando ambientes com containers para garantir manutenibilidade e escalabilidade.
-
----
-
-## Foco no momento
-
-- **Aplicações Full-Stack Reativas:** Integração de ecossistemas orientados a eventos, WebSockets em tempo real e interfaces componentizadas com controle de estado centralizado.
-- **Arquitetura Multi-Tenant e Segurança:** Modelagem de bancos de dados com isolamento por inquilino, controle de acesso baseado em papéis (RBAC) e autenticação stateless.
-- **Ambientes e DevOps:** Padronização e orquestração de microsserviços e ambientes locais com Docker e Docker Compose.
-- **Sistemas Embarcados & IoT:** Prototipagem e instrumentação de telemetria com microcontroladores ESP32 e protocolo LoRaWAN para sensoriamento ambiental.
+**How I think about code:** Good code should be predictable, readable and decoupled. I prefer to invest time in a solid domain layer, reliable static typing and containerized environments that keep software maintainable and scalable.
 
 ---
 
-## Projetos em destaque
+## Work in private repositories
+
+Most of what I write day to day lives in private production repositories, so it doesn't show up here. Some of what that work involves:
+
+- **Domains and SSL:** Ruby on Rails and Laravel applications integrated with Registro.br, eNom and GlobalSign, with background jobs for certificate renewal, revocation and customer communication.
+- **API unification:** Taking part in the initiative to unify the KingHost and Locaweb flows into a single centralized, business-rule-agnostic API.
+- **Cloud and VPS:** Apache CloudStack, authentication with Keycloak, metrics endpoints, and legacy PHP screens migrated to a Vue 3 design system.
+- **Provisioning:** 15+ tested shell recipes, run through cloud-init, for one-click installation of apps such as Dokploy, EasyPanel and n8n.
+
+---
+
+## Featured public projects
 
 <p>
   <a href="https://github.com/RyanSilva-176/multitenant-auth">
-    <img src="https://img.shields.io/badge/multitenant--auth-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="Repositório multitenant-auth" />
+    <img src="https://img.shields.io/badge/multitenant--auth-repository-black?style=for-the-badge&logo=github&logoColor=white" alt="multitenant-auth repository" />
   </a>
 </p>
 
-Sistema de autenticação e controle de acesso com isolamento multi-inquilino. Implementa políticas estritas de separação de dados por tenant, autenticação segura e gerenciamento granular de permissões.  
+Authentication and access control system with multi-tenant isolation. Implements strict per-tenant data separation, secure authentication and granular permission management.  
 `PHP` &bull; `Laravel` &bull; `Vue.js` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Docker`
 
 <p>
   <a href="https://github.com/RyanSilva-176/film-stack">
-    <img src="https://img.shields.io/badge/film--stack-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="Repositório film-stack" />
+    <img src="https://img.shields.io/badge/film--stack-repository-black?style=for-the-badge&logo=github&logoColor=white" alt="film-stack repository" />
   </a>
 </p>
 
-Plataforma full-stack construída sob uma arquitetura desacoplada e containerizada. Foco em renderização híbrida ágil via Inertia.js, comunicação reativa e tipagem estática de ponta a ponta.  
+Full-stack platform built on a decoupled, containerized architecture, focused on hybrid rendering with Inertia.js, reactive communication and end-to-end static typing.  
 `Laravel` &bull; `Inertia.js` &bull; `Vue 3` &bull; `TypeScript` &bull; `Docker`
 
 <p>
   <a href="https://github.com/RyanSilva-176">
-    <img src="https://img.shields.io/badge/Monitoramento_LoRaWAN-pesquisa-black?style=for-the-badge&logo=github&logoColor=white" alt="Pesquisa LoRaWAN" />
+    <img src="https://img.shields.io/badge/LoRaWAN_Monitoring-research-black?style=for-the-badge&logo=github&logoColor=white" alt="LoRaWAN research" />
   </a>
 </p>
 
-Artigo e projeto de pesquisa desenvolvido no IFPE com foco no monitoramento de telemetria ambiental. Utiliza microcontroladores de baixo consumo e transmissão de longa distância via gateway LoRaWAN.  
-`C++` &bull; `ESP32` &bull; `LoRaWAN` &bull; `Sistemas Embarcados`
+Research project developed at IFPE on environmental telemetry monitoring, using low-power microcontrollers and long-range transmission through a LoRaWAN gateway.  
+`C++` &bull; `ESP32` &bull; `LoRaWAN` &bull; `Embedded Systems`
 
 <br>
 
@@ -74,11 +76,12 @@ Artigo e projeto de pesquisa desenvolvido no IFPE com foco no monitoramento de t
 
 ---
 
-## Stack e tecnologias
+## Stack and technologies
 
-Minha stack principal para o backend concentra-se no ecossistema **PHP / Laravel** (APIs RESTful, Horizon, Reverb, Sanctum, Inertia) e **Node.js / TypeScript**. No frontend, atuo prioritariamente com **Vue 3** e **React / Next.js**, utilizando **TypeScript** e **Tailwind CSS**. Persistência de dados com **PostgreSQL**, **MySQL** e **Redis**. Ambientes padronizados com **Docker** em sistema **Linux**.
+On the back-end, I work mainly with **Ruby on Rails** (Sidekiq) and **PHP / Laravel** (RESTful APIs, Horizon, Reverb, Sanctum, Inertia), along with **Node.js / TypeScript**. On the front-end, I work primarily with **Vue 3** and **React / Next.js**, using **TypeScript** and **Tailwind CSS**. For data, I use **PostgreSQL**, **MySQL** and **Redis**. Environments are standardized with **Docker** on **Linux**.
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-000000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
@@ -88,6 +91,7 @@ Minha stack principal para o backend concentra-se no ecossistema **PHP / Laravel
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Sidekiq-000000?style=for-the-badge&logo=sidekiq&logoColor=white" alt="Sidekiq" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -96,16 +100,16 @@ Minha stack principal para o backend concentra-se no ecossistema **PHP / Laravel
 
 ---
 
-## Aprendizado e contato
+## Contact
 
-Sigo estudando **ADS** e construindo soluções nos repositórios acima. Aberto a conexões com desenvolvedores, pesquisadores e recrutadores.
+Happy to connect with developers and researchers.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ryan-silva-021707214"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ryans-menezes"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ryansilva1760@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/RyanSilva-176"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
